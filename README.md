@@ -162,7 +162,7 @@ Serves as the primary development branch, creating a collaborative space for int
 
   **Git flow diagram for multiple developers in a single feature workflow:**
 
-  ![General Workflow for multiple developers](https://storage.brilliant.com.bd/s/gIsRX7LEyJiZdA8/download)
+  ![General Workflow for multiple developers](assets/1.2.png)
 
 
 
@@ -236,7 +236,7 @@ Serves as the primary development branch, creating a collaborative space for int
   ```
   **Git flow diagram for release cycle workflow:**
 
-  ![General release cycle workflow ](https://storage.brilliant.com.bd/s/3YIlD8R0pUFgPVj/download)
+  ![General release cycle workflow ](assets/2.2.png)
 
 
 ##### 1.2.c Feature Flagging
@@ -244,7 +244,7 @@ Serves as the primary development branch, creating a collaborative space for int
 
   **Git flow diagram for specific feature release cycle workflow:**
 
-  ![Specific features release cycle workflow ](https://storage.brilliant.com.bd/s/3ryF9XhZvIhz370/download)
+  ![Specific features release cycle workflow ](assets/3.2.png)
 
 
 ### 2. Hot Fixes
@@ -269,7 +269,7 @@ Serves as the primary development branch, creating a collaborative space for int
   ```
   **Git flow diagram for hotfix release cycle workflow:**
 
-  ![Hotfix release cycle workflow ](https://storage.brilliant.com.bd/s/5FVKOv5OexyG402/download)
+  ![Hotfix release cycle workflow ](assets/4.Hotfix.png)
 
 ### 3. Daily Rebase
 
