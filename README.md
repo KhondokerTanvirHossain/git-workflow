@@ -126,7 +126,7 @@ Serves as the primary development branch, creating a collaborative space for int
       
       **Git flow diagram for developers workflow:**
 
-      ![General Workflow](https://storage.brilliant.com.bd/s/EijLbwuvpQnWrWP/download)
+      ![General Workflow](assets/1.1.png)
 ###
   - If multiple developers are working on a single feature, such as `f1-a`, `f1-b`, and `f1-c`, they should first merge their individual branches into the main feature branch `f1`:
     ```
